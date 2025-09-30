@@ -1,4 +1,4 @@
-## Hi there, I am Aidan 👋
+## Hi there, I am Aidna 👋
 
 I am a MSc Statistics student at Imperial College London. Prior to this, I obtained a Mathematics & Statistics BSc (Hons) from the university of Edinburgh during which I read the following courses:
 
@@ -13,7 +13,7 @@ I am a MSc Statistics student at Imperial College London. Prior to this, I obtai
 10. Combinatorics & Graph Theory
 11. Statistical Case Studies
 
-Find the imperial website here: [Imperial College London](https://www.imperial.ac.uk/)
+Find the imperial website here: [Imperial College Londom](https://www.imperial.ac.uk/)
 
 <!--
 **Aidan-Densem/Aidan-Densem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
