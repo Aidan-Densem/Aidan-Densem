@@ -13,7 +13,7 @@ I am a MSc Statistics student at Imperial College London. Prior to this, I obtai
 10. Combinatorics & Graph Theory
 11. Statistical Case Studies
 
-Find the imperial website here: [Imperial College London](https://www.imperial.ac.uk/)
+Find the Master's website here: [MSc Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
 
 <!--
 **Aidan-Densem/Aidan-Densem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
