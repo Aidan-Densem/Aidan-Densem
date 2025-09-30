@@ -1,6 +1,6 @@
-## Hi there, I am Aidna 👋
+## Hi there, I am Aidan 👋
 
-I am a MSc Statistics student at Imperial College London. Prior to this, I obtained a Mathematics & Statistics BSc (Hons) from the university of Edinburgh during which I read the following courses:
+I am a MSc Statistics student at Imperial College London. Prior to this, I obtained a Mathematics & Statistics BSc (Hons) from the University of Edinburgh during which I read the following courses:
 
 1. Probability, Measure, & Finance
 2. Applied Stochastic Differential Equations
